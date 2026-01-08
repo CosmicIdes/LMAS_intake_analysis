@@ -1,9 +1,11 @@
-#LMAS INTAKE ANALYSIS PROJECT
+# LMAS INTAKE ANALYSIS PROJECT
 
-##Instructions to run:
+## Instructions to run
+
 The data is included in the project.
 
-###Setup python environment:
+### Setup python environment
+
 '''bash
 git clone https://github.com/CosmicIdes/LMAS_intake_analysis.git
 cd LMAS_intake_analysis
@@ -29,13 +31,14 @@ Run [notebook](main.ipynb)
 
 
 
-###Install modules/libraries
+### Install modules/libraries 
+
 '''bash
 python -m pip install -r requirements.txt
 '''
 
-##Background info:
+## Background info
 
 
 
-##Summary
+## Summary
